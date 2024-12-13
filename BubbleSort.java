@@ -19,3 +19,10 @@ class BubbleSort{
     }
     
 }
+
+Time Complexity 
+
+Best case= 0(n)
+worst case=0(n^2)
+
+
